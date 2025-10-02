@@ -27,7 +27,7 @@ docker-compose up --build
 ### 2. Acessar a Aplicação
 - **URL**: http://localhost (porta 80)
 - **Login**: `admin`
-- **Senha**: `admin1234`
+- **Senha**: `******`
 
 ### 3. Verificar Sistema
 O sistema está configurado para execução em Linux. Para testes locais de desenvolvimento, utilize Docker.
@@ -146,7 +146,7 @@ POST /api/auth/login
 Content-Type: application/json
 {
   "username": "admin",
-  "password": "admin1234"
+  "password": "*****"
 }
 ```
 **Response:**
