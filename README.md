@@ -1,4 +1,4 @@
-# 🎥 RTSP Handler V2 - Sistema de Streaming Enterprise
+# 🎥 RTSP Handler V2 - Sistema de Streaming Enterprise (Projeto Privado)
 
 > **✨ PROJETO CONSOLIDADO E MODERNIZADO (2024)**  
 > Arquitetura MVC completamente refatorada, frontend unificado, Docker otimizado
