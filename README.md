@@ -405,9 +405,9 @@ cat /app/data/version.json
 ## 🔗 LINKS ÚTEIS
 
 ### Documentação Adicional
-- [`CONSOLIDACAO.md`](CONSOLIDACAO.md): Documentação da arquitetura consolidada
-- [`DESENVOLVIMENTO.md`](DESENVOLVIMENTO.md): Guia completo de desenvolvimento
-- [`setup-git.sh`](setup-git.sh): Setup inicial do repositório
+- [`CONSOLIDACAO.md`]: Documentação da arquitetura consolidada
+- [`DESENVOLVIMENTO.md`]: Guia completo de desenvolvimento
+- [`setup-git.sh`]: Setup inicial do repositório
 
 ### APIs e Endpoints
 - **API Health**: http://localhost/api/health
@@ -603,8 +603,8 @@ GET /static/{path}                          # Arquivo estático via CDN
 - **Auditoria**: Integração com sistema de watermark
 
 Para detalhes técnicos completos, consulte:
-- [📖 Documentação Técnica CDN](docs/11-cdn-proxy.md)
-- [🛠️ Guia de Administração](docs/12-administracao-cache.md)
+- [📖 Documentação Técnica CDN]
+- [🛠️ Guia de Administração]
 
 ### 🎛️ Interface de Administração
 O sistema CDN está preparado para integração com a interface web de administração:
